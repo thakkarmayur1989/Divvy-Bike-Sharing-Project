@@ -13,16 +13,16 @@ Hourly rental data spanning two years and there  are 7 categorical variables and
 
 datetime: hourly date + timestamp  
 
-season: <br> 1 = spring, 2 = summer, 3 = fall, 4 = winter 
+season: 1 = spring, 2 = summer, 3 = fall, 4 = winter 
 
 Holiday: Whether the day is considered a holiday
 
 Working day: whether the day is neither a weekend nor holiday
 
-Weather: <br> 1: Clear, Few clouds, Partly cloudy, Partly cloudy <br>
-          2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist <br>
-          3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds <br>
-          4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog <br>
+Weather:  1= Clear, Few clouds, Partly cloudy, Partly cloudy <br>
+          2= Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist <br>
+          3= Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds <br>
+          4= Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog <br>
           
 Temp: temperature in Celsius
 
